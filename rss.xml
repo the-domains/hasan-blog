@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Hasan's Blog]]></title>
         <description><![CDATA[Hasan's Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hasan-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 14:20:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 26 May 2016 14:22:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hasan-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/353efb3b-9368-4018-bb1f-2e6121a584ff.png" alt="" title="">]]></description>
-            <link>undefined788c23df-8731-427c-87dd-a0535e991c62/index.html</link>
+            <link>https://thegrid.ai/hasan-blog/788c23df-8731-427c-87dd-a0535e991c62/index.html</link>
             <guid isPermaLink="false">788c23df-8731-427c-87dd-a0535e991c62</guid>
-            <pubDate>Thu, 26 May 2016 14:20:55 GMT</pubDate>
+            <pubDate>Thu, 26 May 2016 14:22:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
