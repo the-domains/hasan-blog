@@ -1,0 +1,28 @@
+name: "Hasan's Blog"
+favicon: null
+layout_spectrum: 0.05852430476807058
+typography_spectrum: 0.30783797590993345
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.20561977475881577
+  lightness: 0.2723466269671917
+  saturation: 0.32635006541386247
+  rhythmicContrast: 0.9801039122976363
+purpose: []
